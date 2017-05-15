@@ -1,0 +1,24 @@
+{
+  "name": "in-app-purchase-promise",
+  "version": "1.0.0",
+  "description": "A Node.js module for In-App-Purchase validation for iOS, Android, Amazon, and Windows. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candicom/in-app-purchase-promise.git"
+  },
+  "keywords": [
+    "iap",
+    "inapppurchase",
+    "purchase"
+  ],
+  "author": "kimdongmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/candicom/in-app-purchase-promise/issues"
+  },
+  "homepage": "https://github.com/candicom/in-app-purchase-promise#readme"
+}

@@ -1,0 +1,17 @@
+  "dependencies": {
+    "request": "2.75.0",
+    "xml-crypto": "0.8.2",
+    "xmldom": "0.1.19"
+  },
+
+  "description": "In-App-Purchase validation and subscription management for iOS, Android, Amazon, and Windows",
+
+  "license": "MIT",
+
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/voltrue2/in-app-purchase.git"
+    },
+
+    "in-app-purchase": "^1.1.10", +
+    https://github.com/Thaina/in-app-purchase/blob/0368e179ec4c011b86c872d388df32634d3b4c08/index.js
